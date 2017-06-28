@@ -1,0 +1,53 @@
+
+.Details{
+	float: right;
+    padding-right: 120px;
+    font-size: larger;
+}
+.objective{
+	padding-top: 100px;
+}
+/*p{
+	    padding-left: 111px;
+
+}*/
+table.qualification{
+	    border-spacing: initial;
+    width: 97%;
+    padding-left: 285px;
+}
+
+.header{
+	font-size: larger;
+    padding-top: 0px;
+    padding-left: 74px;;
+}
+body{
+    padding-left: 30px;
+    border: 1px solid;
+    margin-left: 150px;
+    margin-right: 166px;
+    font-family: sans-serif;
+    font-style: initial;
+    padding-bottom: 85px;
+    padding-top: 40px;
+}
+.qualification {
+	
+    border-collapse: collapse;
+    width: 97%;
+}
+td{
+	padding-left: 14px;
+}
+div.objective p{
+	text-indent: 142px;
+	line-height: 24px;
+	padding-right: 42px;
+}
+thead , tbody{
+	line-height: 50px;
+}
+div.skills table{
+	padding-left: 150px;
+}
