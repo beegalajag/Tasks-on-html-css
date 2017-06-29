@@ -1,0 +1,56 @@
+
+
+body{
+	background-color: beige;
+
+}
+.line{
+	height: 10px;
+	width:100%;
+	background-color: blue;
+}
+thead,tbody{
+	border: 1px solid black;
+}
+.table_first,td{
+	border :1px solid ;
+}
+.second_table , thead ,tbody {
+	border : 3px solid ;
+	width: 100%;
+
+}
+
+tr.row, thead.row{
+	text-align: center;
+}
+td.align_right{
+	text-align: right;
+}
+td.align_left{
+	text-align: left;
+}
+.table_head{
+	text-align: center;
+	column-span: 3;
+
+
+}
+.third_table, tbody{
+	text-align: center;
+
+	    border: 2px solid;
+    margin-left: ;
+    margin-left: 347px;
+    width: 500px;
+}
+table.second_table tbody{
+	border: 1px solid;
+}
+td.bold{
+	font-weight: bold;
+}
+thead.t_head {
+	border : 1px solid;
+}
+
